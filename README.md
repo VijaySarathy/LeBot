@@ -1,2 +1,2 @@
 # LeBot
-Legal perdiction through Data Analytics 
+Legal prediction through Data Analytics 
